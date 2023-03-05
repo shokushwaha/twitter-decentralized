@@ -1,0 +1,9 @@
+react - frontend
+metamask - wallet + transaction signing
+solidity - smart contract
+hardhat - test + debug + deploy 
+alchemy - interact with blockchain
+goerli - testnetwork
+
+
+react ----> ethers.js -----> ETH blockchain <----- alchemy <----- hardhat
