@@ -1,0 +1,35 @@
+.sidebar {
+    border-right: 1px solid var(--twitter-background);
+    flex: 0.2;
+
+    padding: 10px 20px;
+    border: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.sidebarTwitterIcon {
+    color: var(--twitter-color);
+    font-size: 40px !important;
+    margin-left: 20px;
+    margin-bottom: 20px;
+
+}
+
+button {
+    background-color: #50b7f5;
+    padding: 10px;
+    width: 150px;
+    border-radius: 20px;
+    margin: 10px auto;
+    color: azure;
+    font-size: 20px;
+    border: none;
+    outline: none;
+    margin-left: 20px;
+}
+
+button:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
